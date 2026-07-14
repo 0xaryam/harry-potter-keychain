@@ -37,7 +37,7 @@ The following requirements were implemented:
 
 ## 🔗 Onshape Design
 
-[View the 3D Design on Onshape]([PUT-YOUR-ONSHAPE-LINK-HERE](https://cad.onshape.com/documents/59ec386cc654d959d806b390/w/83d3030f1cbd5c2f75706b2e/e/a7988b2e8c6f82a39b29c0a0?renderMode=0&uiState=6a569b74702405fa031694cf))
+[View the 3D Design on Onshape](https://cad.onshape.com/documents/59ec386cc654d959d806b390/w/83d3030f1cbd5c2f75706b2e/e/a7988b2e8c6f82a39b29c0a0?renderMode=0&uiState=6a569b74702405fa031694cf)
 
 ## 📁 Project Files
 
